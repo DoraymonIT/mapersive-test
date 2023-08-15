@@ -13,4 +13,5 @@ Clone it or download it and the run `npm install` for a dev server. Navigate to 
 - UI : Flowbite is a library of interactive UI components built with Tailwind CSS
 
 ## Live Link : 
-- 
+- https://mapersive-test.netlify.app/
+PS ( I had issues with github pages and cuz of deadline , i used netlify instead )
